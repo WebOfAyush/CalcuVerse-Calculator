@@ -1,6 +1,6 @@
 # Calculator
 
-Welcome to the Calculator project! This is a simple yet functional calculator built with HTML, CSS, and JavaScript. The project aims to provide a clean and user-friendly interface for basic arithmetic operations.
+Welcome to the Calculator project! This is a simple yet functional calculator built with React Js. The project aims to provide a clean and user-friendly interface for basic arithmetic operations.
 
 ## Features
 
