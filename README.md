@@ -39,19 +39,3 @@ To run this project locally, follow these steps:
 - Use the calculator to perform basic arithmetic operations.
 - The display will show the current input and results.
 
-## Project Structure
-
-The project structure is as follows:
-calculator/
-├── public/
-│ └── index.html
-├── src/
-│ ├── assets/
-│ │ └── calculator.png
-│ ├── components/
-│ │ └── Calculator.js
-│ ├── styles/
-│ │ └── style.css
-│ └── App.js
-├── package.json
-└── README.md
